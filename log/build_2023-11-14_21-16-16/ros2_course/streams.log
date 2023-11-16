@@ -1,0 +1,21 @@
+[1.082s] Invoking command in '/home/ros_user/ros2_ws/build/ros2_course': PYTHONPATH=/home/ros_user/ros2_ws/build/ros2_course/prefix_override:/home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ros_user/ros2_ws/build/ros2_course/build --no-deps install_data
+[1.322s] running develop
+[1.323s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.323s]   warnings.warn(
+[1.330s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.330s]   warnings.warn(
+[1.502s] running egg_info
+[1.502s] writing ros2_course.egg-info/PKG-INFO
+[1.503s] writing dependency_links to ros2_course.egg-info/dependency_links.txt
+[1.503s] writing entry points to ros2_course.egg-info/entry_points.txt
+[1.503s] writing requirements to ros2_course.egg-info/requires.txt
+[1.503s] writing top-level names to ros2_course.egg-info/top_level.txt
+[1.505s] reading manifest file 'ros2_course.egg-info/SOURCES.txt'
+[1.506s] writing manifest file 'ros2_course.egg-info/SOURCES.txt'
+[1.507s] running build_ext
+[1.508s] Creating /home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages/ros2-course.egg-link (link to .)
+[1.508s] Installing turtlesim_controller script to /home/ros_user/ros2_ws/install/ros2_course/lib/ros2_course
+[1.509s] 
+[1.509s] Installed /home/ros_user/ros2_ws/build/ros2_course
+[1.509s] running install_data
+[1.548s] Invoked command in '/home/ros_user/ros2_ws/build/ros2_course' returned '0': PYTHONPATH=/home/ros_user/ros2_ws/build/ros2_course/prefix_override:/home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ros_user/ros2_ws/build/ros2_course/build --no-deps install_data

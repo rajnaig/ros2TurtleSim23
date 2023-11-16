@@ -1,0 +1,3 @@
+[console_scripts]
+turtlesim_controller = ros2_course.turtlesim_controller:main
+

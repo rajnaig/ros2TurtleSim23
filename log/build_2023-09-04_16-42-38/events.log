@@ -1,0 +1,41 @@
+[0.000000] (-) TimerEvent: {}
+[0.000077] (ros2_course) JobQueued: {'identifier': 'ros2_course', 'dependencies': OrderedDict()}
+[0.000120] (ros2_course) JobStarted: {'identifier': 'ros2_course'}
+[0.102369] (-) TimerEvent: {}
+[0.202823] (-) TimerEvent: {}
+[0.303455] (-) TimerEvent: {}
+[0.418378] (-) TimerEvent: {}
+[0.522334] (-) TimerEvent: {}
+[0.622717] (-) TimerEvent: {}
+[0.724573] (-) TimerEvent: {}
+[0.824767] (-) TimerEvent: {}
+[0.864331] (ros2_course) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--editable', '--build-directory', '/home/ros_user/ros2_ws/build/ros2_course/build', '--no-deps', 'install_data'], 'cwd': '/home/ros_user/ros2_ws/build/ros2_course', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LANGUAGE': 'en_GB:en', 'LC_TIME': 'hu_HU.UTF-8', 'USER': 'ros_user', 'XDG_SESSION_TYPE': 'wayland', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'SHLVL': '6', 'HOME': '/home/ros_user', 'DESKTOP_SESSION': 'ubuntu', 'QTDIR': '/usr/lib/x86_64-linux-gnu/qt5', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/QtProject-qtcreator-ros-latest.desktop', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'hu_HU.UTF-8', 'MANAGERPID': '1131', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'SYSTEMD_EXEC_PID': '1305', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '18069', 'COLCON_PREFIX_PATH': '/home/ros_user/ros2_ws/install', 'IM_CONFIG_PHASE': '1', 'ROS_DISTRO': 'humble', 'WAYLAND_DISPLAY': 'wayland-0', 'LOGNAME': 'ros_user', 'JOURNAL_STREAM': '8:21342', '_': '/usr/bin/env', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm', 'USERNAME': 'ros_user', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'INVOCATION_ID': '384c4f6facbe46fc8ea376328e44e59c', 'PAPERSIZE': 'a4', 'SESSION_MANAGER': 'local/ubuntu-vm:@/tmp/.ICE-unix/1273,unix/ubuntu-vm:/tmp/.ICE-unix/1273', 'GNOME_SETUP_DISPLAY': ':1', 'LC_ADDRESS': 'hu_HU.UTF-8', 'XDG_MENU_PREFIX': 'gnome-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_GB.UTF-8', 'LC_TELEPHONE': 'hu_HU.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.U5U0A2', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=ibus', 'AMENT_PREFIX_PATH': '/home/ros_user/ros2_ws/install/ros2_course:/opt/ros/humble', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'LC_NAME': 'hu_HU.UTF-8', 'SHELL': '/bin/bash', 'GDMSESSION': 'ubuntu', 'QT_ACCESSIBILITY': '1', 'LC_MEASUREMENT': 'hu_HU.UTF-8', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'hu_HU.UTF-8', 'QT_IM_MODULE': 'ibus', 'LC_ALL': 'C', 'PWD': '/home/ros_user/ros2_ws/build/ros2_course', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_NUMERIC': 'hu_HU.UTF-8', 'PYTHONPATH': '/home/ros_user/ros2_ws/build/ros2_course/prefix_override:/home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages:/home/ros_user/ros2_ws/build/ros2_course:/home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_PAPER': 'hu_HU.UTF-8', 'COLCON': '1'}, 'shell': False}
+[0.926406] (-) TimerEvent: {}
+[1.026805] (-) TimerEvent: {}
+[1.127218] (-) TimerEvent: {}
+[1.227470] (-) TimerEvent: {}
+[1.241150] (ros2_course) StdoutLine: {'line': b'running develop\n'}
+[1.241628] (ros2_course) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.241741] (ros2_course) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.243271] (ros2_course) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.243391] (ros2_course) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.327868] (-) TimerEvent: {}
+[1.428128] (-) TimerEvent: {}
+[1.477461] (ros2_course) StdoutLine: {'line': b'running egg_info\n'}
+[1.477842] (ros2_course) StdoutLine: {'line': b'writing ros2_course.egg-info/PKG-INFO\n'}
+[1.478260] (ros2_course) StdoutLine: {'line': b'writing dependency_links to ros2_course.egg-info/dependency_links.txt\n'}
+[1.478622] (ros2_course) StdoutLine: {'line': b'writing entry points to ros2_course.egg-info/entry_points.txt\n'}
+[1.478903] (ros2_course) StdoutLine: {'line': b'writing requirements to ros2_course.egg-info/requires.txt\n'}
+[1.479184] (ros2_course) StdoutLine: {'line': b'writing top-level names to ros2_course.egg-info/top_level.txt\n'}
+[1.481383] (ros2_course) StdoutLine: {'line': b"reading manifest file 'ros2_course.egg-info/SOURCES.txt'\n"}
+[1.482531] (ros2_course) StdoutLine: {'line': b"writing manifest file 'ros2_course.egg-info/SOURCES.txt'\n"}
+[1.484190] (ros2_course) StdoutLine: {'line': b'running build_ext\n'}
+[1.484622] (ros2_course) StdoutLine: {'line': b'Creating /home/ros_user/ros2_ws/install/ros2_course/lib/python3.10/site-packages/ros2-course.egg-link (link to .)\n'}
+[1.485668] (ros2_course) StdoutLine: {'line': b'Installing hello script to /home/ros_user/ros2_ws/install/ros2_course/lib/ros2_course\n'}
+[1.486068] (ros2_course) StdoutLine: {'line': b'\n'}
+[1.486222] (ros2_course) StdoutLine: {'line': b'Installed /home/ros_user/ros2_ws/build/ros2_course\n'}
+[1.486562] (ros2_course) StdoutLine: {'line': b'running install_data\n'}
+[1.518337] (ros2_course) CommandEnded: {'returncode': 0}
+[1.529930] (-) TimerEvent: {}
+[1.539738] (ros2_course) JobEnded: {'identifier': 'ros2_course', 'rc': 0}
+[1.543079] (-) EventReactorShutdown: {}
